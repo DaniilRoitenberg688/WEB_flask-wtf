@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="429f0f3f-dd3d-4d45-b85a-818ad29efd65" name="Changes" comment="class 1">
-      <change afterPath="$PROJECT_DIR$/class_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/ing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/sci.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base1.html" afterDir="false" />
+    <list default="true" id="429f0f3f-dd3d-4d45-b85a-818ad29efd65" name="Changes" comment="class 2">
+      <change afterPath="$PROJECT_DIR$/class_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.class_1.executor": "Run",
     "Python.class_2.executor": "Run",
+    "Python.class_3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/daniil/Desktop/My_works/python_projects/WEB/flask-wtf/static",
@@ -56,7 +56,7 @@
       <recent name="C:\Users\daniil\Desktop\My_works\python_projects\WEB\flask-wtf\static" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.class_2">
+  <component name="RunManager" selected="Python.class_3">
     <configuration name="class_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="flask-wtf" />
       <option name="ENV_FILES" value="" />
@@ -101,8 +101,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="class_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-wtf" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.class_3" />
         <item itemvalue="Python.class_2" />
         <item itemvalue="Python.class_1" />
       </list>
@@ -132,11 +155,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707462500910</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class 2">
+      <option name="closed" value="true" />
+      <created>1707464176735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707464176735</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 1" />
+    <MESSAGE value="class 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 2" />
   </component>
 </project>
