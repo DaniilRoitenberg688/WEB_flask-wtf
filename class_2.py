@@ -11,7 +11,7 @@ def index(title):
 
 @app.route('/training/<prof>')
 def training(prof):
-    return render_template('base1.html', title=prof, prof=prof)
+    return render_template('index1.html', title=prof, prof=prof)
 
 
 if __name__ == '__main__':

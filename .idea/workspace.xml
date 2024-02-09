@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="429f0f3f-dd3d-4d45-b85a-818ad29efd65" name="Changes" comment="class 2">
-      <change afterPath="$PROJECT_DIR$/class_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base2.html" afterDir="false" />
+    <list default="true" id="429f0f3f-dd3d-4d45-b85a-818ad29efd65" name="Changes" comment="class 3">
+      <change afterPath="$PROJECT_DIR$/templates/index1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base2.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,12 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707464176735</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="class 3">
+      <option name="closed" value="true" />
+      <created>1707466556719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707466556719</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class 1" />
     <MESSAGE value="class 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 2" />
+    <MESSAGE value="class 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 3" />
   </component>
 </project>
