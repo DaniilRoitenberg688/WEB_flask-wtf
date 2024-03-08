@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% for i in people %}
+    {% if loop.index == 1 %}
+        <h4>{{i}}-Каюта №{{loop.index}} - captain</h4>
+    {% else %}
+        <h4>{{i}}-Каюта №{{loop.index}}</h4>
+    {% endif %}
+{% endfor %}
+
+{% endblock %}
